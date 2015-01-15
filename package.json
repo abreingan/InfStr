@@ -1,0 +1,10 @@
+{
+  "name": "infstr",
+  "title": "InfStr",
+  "id": "jid1-1w9o3MRZyQEs0A",
+  "description": "Link to InfStr Password Manager",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions": {"private-browsing": true}
+}
